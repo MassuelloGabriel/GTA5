@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background-color: red;
+  margin: 0;
+  color: white;
+font-family: 'Tilt Neon', cursive;
+}
+
+#home {
+  background: linear-gradient(blue, red);
+  padding: 50px;
+  font-family: 'Gajraj One', cursive;
+}
+#home img {
+  width: 50%;
+}
+.linha {
+background-color: aliceblue;
+width: 100px;
+height: 6px;
+margin: 6px auto 20px;
+}
+
+.tituloSessao {
+margin-bottom: 0;
+margin-top: 50px;
+}
+
+#videos iframe {
+  max-width: 90%;
+}
+
+#top {
+position: sticky;
+top: 0;
+
+}
+
+#top ul {
+background-color: blue;
+margin: 0;
+list-style: none;
+padding: 10px;
+}
+
+#top li {
+  display: inline;
+  font-size: 20px;
+}
+
+#top a {
+text-decoration: none;
+color:white;
+padding: 10px;
+}
+
+#top a:hover {
+background-color: red;
+color: white;
+}
+
+#compra {
+background-color: blue;
+margin: 0;
+position: sticky;
+padding: 10px;
+}
+
+#compra a {
+  text-decoration: none;
+  font-size: 2rem;
+  padding: 10px;
+  color: white;
+}
+
+#compra a:hover {
+background-color:red;
+text-decoration: none;
+padding: 10px;
+color: white;
+
+
+}
